@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>icon.png</file>
+        <file>Sounds/button_sound.wav</file>
+        <file>Sounds/c4_piece.wav</file>
+        <file>Sounds/sfx_sounds_error2.wav</file>
+        <file>Sounds/270333__littlerobotsoundfactory__jingle-win-00.wav</file>
+        <file>Sounds/270329__littlerobotsoundfactory__jingle-lose-00.wav</file>
+    </qresource>
+</RCC>
